@@ -3,7 +3,7 @@ local timer = 5
 
 --image_0 is used as the rules splash screen
 local image_0 = {
-    ['src'] = 'public-url-link-goes-here',
+    ['src'] = 'https://cdn.discordapp.com/attachments/1065243068963487754/1114422790334984272/YWAZFHf.png',
     ['sizeX'] = 512, --size of your image in pixels
     ['sizeY'] = 512, --size of your image in pixels
     ['paddingX'] = screensize.x/2-512/2, --this makes it sit in the centre of the screen
